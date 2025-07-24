@@ -1,0 +1,31 @@
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: [GEN] UART TX Data: 4c
+# KERNEL: [MON] UART TX Data: 4c
+# KERNEL: [SCB] Checking data: 4c
+# KERNEL: [MON] UART TX Data: 4c
+# KERNEL: [SCB] Checking data: 4c
+# KERNEL: [GEN] UART TX Data: db
+# KERNEL: [MON] UART TX Data: db
+# KERNEL: [SCB] Checking data: db
+# KERNEL: [MON] UART TX Data: db
+# KERNEL: [SCB] Checking data: db
+# KERNEL: [GEN] UART TX Data: e4
+# KERNEL: [MON] UART TX Data: e4
+# KERNEL: [SCB] Checking data: e4
+# KERNEL: [MON] UART TX Data: e4
+# KERNEL: [SCB] Checking data: e4
+# KERNEL: [GEN] UART TX Data: 5b
+# KERNEL: [GEN] UART TX Data: 2f
+# KERNEL: [MON] UART TX Data: 5b
+# KERNEL: [SCB] Checking data: 5b
+# KERNEL: [MON] UART TX Data: 5b
+# KERNEL: [SCB] Checking data: 5b
+# KERNEL: [MON] UART TX Data: 2f
+# KERNEL: [SCB] Checking data: 2f
+# KERNEL: [MON] UART TX Data: 2f
+# KERNEL: [SCB] Checking data: 2f
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (36): $finish called.
+# KERNEL: Time: 2020 ns,  Iteration: 0,  Instance: /tb_uart,  Process: @INITIAL#25_1@.
+# KERNEL: stopped at time: 2020 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
